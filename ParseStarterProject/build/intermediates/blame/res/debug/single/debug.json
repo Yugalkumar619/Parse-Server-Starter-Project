@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\jonmoxley\\AndroidStudioProjects\\web projects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jonmoxley\\AndroidStudioProjects\\web projects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jonmoxley\\AndroidStudioProjects\\web projects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\jonmoxley\\AndroidStudioProjects\\web projects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonmoxley\\AndroidStudioProjects\\web projects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jonmoxley\\AndroidStudioProjects\\web projects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jonmoxley\\AndroidStudioProjects\\web projects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jonmoxley\\AndroidStudioProjects\\web projects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jonmoxley\\AndroidStudioProjects\\web projects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_requests.xml.flat",
+        "source": "C:\\Users\\jonmoxley\\AndroidStudioProjects\\web projects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_view_requests.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonmoxley\\AndroidStudioProjects\\web projects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jonmoxley\\AndroidStudioProjects\\web projects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jonmoxley\\AndroidStudioProjects\\web projects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v14_activity_main.xml.flat",
+        "source": "C:\\Users\\jonmoxley\\AndroidStudioProjects\\web projects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout-v14\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonmoxley\\AndroidStudioProjects\\web projects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_uber.jpeg.flat",
+        "source": "C:\\Users\\jonmoxley\\AndroidStudioProjects\\web projects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\uber.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\jonmoxley\\AndroidStudioProjects\\web projects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_driver_location.xml.flat",
+        "source": "C:\\Users\\jonmoxley\\AndroidStudioProjects\\web projects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_driver_location.xml"
+    }
+]
